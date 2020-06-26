@@ -1,0 +1,18 @@
+Description 
+============
+
+PROJECT NAME: challenge
+AUTHOR: Jose Luis Gonzalez Pisa
+
+To build 
+=========
+Use cmake with the following commands:
+
+cd bin 
+cmake ..
+make
+
+to run 
+=======
+IN LINUX: ./challenge
+IN MACOS: ./challenge
